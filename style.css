@@ -1,0 +1,234 @@
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-image:url(img-1.jpg);
+    height: 99vh;
+    background-size: cover;
+    
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: rgba(0,0,0, 0.4);
+}
+.navbar .nav-img{
+    width: 38%;
+    float: left;
+    margin: 14px 0px;
+    padding-left: 20px;
+
+}
+.navbar .nav-ul{
+    /* background-color: blueviolet; */
+    width: 60%; 
+    float: left;
+    text-align: center;
+}
+ .clr{
+    clear: both;
+}
+.logo{
+    width: 140px;
+    /* height: auto; */
+    /* padding: 20px 100px; */
+
+}
+/* .navbar ul{
+    float: right;
+    margin-right: 20px;
+} */
+.navbar ul li{
+    margin: 8px 15px;
+    display: inline-block;
+    /* line-height: 80px; */
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
+ .center{
+   
+   text-align: center;
+   padding-top: 35px;
+
+} 
+.center h4{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    /* width: 900px; */
+    /* text-align: center; */
+}
+.center h2{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    /* width: 855px; */
+    /* text-align: center; */
+}
+.center p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    /* width:800px; */
+    /* text-align: center; */
+}
+.center .buttons{
+    margin: 35px 300px;
+    
+}
+.buttons .btn1{
+    
+    /* width: 100px; */
+   
+    background: rgb(176, 153, 38);
+     border:none; 
+    padding: 10px 10px;
+    color: aliceblue;
+   
+}
+.buttons .btn2{
+    background-color: transparent;
+    
+     border: 2px solid rgb(255, 255, 255);
+    margin-left: 15px;
+    padding: 10px 10px;
+    color: aliceblue;
+   
+}
+.wapper1{
+    padding: 30px 0px 30px;
+
+    
+}
+.wapper1 .ph1{
+ 
+    width: 45%;
+    float: left;
+    margin-left:15px ;
+}
+.wapper1 .ph1 img{
+    width: 100%;
+
+}
+
+.wapper1 .lo{
+    /* background-color: blueviolet; */
+    width: 46%;
+    float: left;
+    text-align: center;
+    
+    padding: 109px 60px 40px;
+
+    
+}
+.wapper1 .wapper-p{
+    /* background-color: rgb(86, 43, 226); */
+    padding: 0 40px;
+    float: left;
+    width: 45%;
+
+}
+
+.icon {
+    color: rgb(176, 153, 38);
+    
+    border: 1px solid rgb(176, 153, 38);
+    padding: 10px;
+    border-radius: 50%;
+}
+.wapper2{
+    padding: 30px 0px 30px;
+    background-color: rgb(209, 209, 209);
+
+    
+}
+.wapper2 .ph2{
+    width: 45%;
+    float: left;
+}
+.wapper2 .ph2 img{
+    width: 100%;
+    
+
+}
+.wapper2 .lo2{
+    /* background-color: blueviolet; */
+    width: 46%;
+    float: left;
+    text-align: center;
+    padding:  123px 50px 60px;   
+}
+
+.wapper3 .ph3{
+    width: 45%;
+    float: left;
+    margin-left: 76px;;
+}
+.wapper-p3  {
+    width: 48%;
+    float: left;
+    margin-left: 30px;
+}
+.wapper4{
+    background-color: rgb(218, 218, 219);
+    text-align: center;
+    margin: auto;
+}
+ .wapper4 .div1 {
+    /* background-color: blue; */
+    float: left;
+    width: 32.5%;
+    margin-left: 10px;
+} 
+.wapper4 .div1 img{
+    width: 100%;
+    
+}
+.wapper5{
+    background-color: burlywood;
+
+}
+.wapper5 .div2{
+    /* background-color: aqua; */
+    float: left;
+    width: 20%;
+    background-color: burlywood;
+    color: white;
+    padding-left: 15px;
+
+}
+
+.wapper5 .div3 {
+  
+    width: 24%;
+    float: left;
+    margin-left: 10px;
+    color: white;
+}
+.wapper5 .div3 p{
+    border-bottom: 1px solid rgb(27, 23, 23);
+    border-top: transparent;
+    border-right: transparent;
+    border-left: transparent;
+
+}
+.wapper5 .div3 .icon1{
+    padding-right: 25px;
+}
+.wapper6{
+    background-color: rgb(48, 48, 51);
+    text-align: center;
+    padding-top: 50px;
+}
+.wapper6 .social{
+    font-size: 30px;
+}
+
+
